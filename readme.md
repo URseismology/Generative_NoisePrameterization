@@ -49,6 +49,7 @@ Result Analysis Details
 Reference
 --------------------------------------------------------------------------------------
 
+```bibtex
 @misc{permenter2024interpretingimprovingdiffusionmodels,
       title={Interpreting and Improving Diffusion Models from an Optimization Perspective}, 
       author={Frank Permenter and Chenyang Yuan},
@@ -58,3 +59,4 @@ Reference
       primaryClass={cs.LG},
       url={https://arxiv.org/abs/2306.04848}, 
 }
+```
