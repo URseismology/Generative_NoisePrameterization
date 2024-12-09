@@ -9,7 +9,7 @@ Subfolders:
     1. code
         a.analysis: contains general data analysis, data processing and results analysis jupyter notebooks.
         b.lib: contains the utility codes, the diffusion model related classes and methods.
-        c.ipynb_single_run_code_files: contains all methods/function definitions and model run in one place as a single excutable jupyter notebook. The files are named as per expriments mentioned in the report.
+        c.ipynb_single_run_code_files: contains all methods/function definitions and model run in one place as a single excutable jupyter notebook.The files are named as per expriments mentioned in the report.
 
     2. data
         a.processed: contains the processed pickle/data files ready for model input
