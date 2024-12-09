@@ -1,4 +1,4 @@
-This readme file is created to explain the folder structure and instrcution related to execution of the diffusion model.
+This readme file is created to explain the folder structure and instruction related to execution of the diffusion model.
 
 --------------------------------------------------------------------------------------
 Abstract
