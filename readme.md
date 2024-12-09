@@ -20,7 +20,7 @@ Subfolders:
         c.ipynb_single_run_code_files: contains all methods/function definitions and model run in one place as a single excutable jupyter notebook.The files are named as per expriments mentioned in the report.
 
     2. data
-        a.processed: contains the processed pickle/data files ready for model input
+        a.processed: contains the processed pickle/data files ready for model input. currently empty. not kept due to huge size.
         b.raw: raw seismic data. currently empty. not kept due to huge size.
 
     3: models: contains saved models from multiple runs
