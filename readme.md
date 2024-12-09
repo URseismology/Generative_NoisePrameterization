@@ -42,3 +42,18 @@ Result Analysis Details
 --------------------------------------------------------------------------------------
 
     > to analyze the results of the generative model execute "code/analysis/results_analysis.ipynb" jupyter notebook
+
+
+
+--------------------------------------------------------------------------------------
+Reference
+--------------------------------------------------------------------------------------
+
+@inproceedings{
+permenter2024interpreting,
+title={Interpreting and Improving Diffusion Models from an Optimization Perspective},
+author={Frank Permenter and Chenyang Yuan},
+booktitle={Forty-first International Conference on Machine Learning},
+year={2024},
+url={https://openreview.net/forum?id=o2ND9v0CeK}
+}
