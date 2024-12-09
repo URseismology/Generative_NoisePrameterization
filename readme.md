@@ -49,14 +49,4 @@ Result Analysis Details
 Reference
 --------------------------------------------------------------------------------------
 
-```bibtex
-@misc{permenter2024interpretingimprovingdiffusionmodels,
-      title={Interpreting and Improving Diffusion Models from an Optimization Perspective}, 
-      author={Frank Permenter and Chenyang Yuan},
-      year={2024},
-      eprint={2306.04848},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2306.04848}, 
-}
-```
+Permenter, F., & Yuan, C. (2023). Interpreting and Improving Diffusion Models from an Optimization Perspective. arXiv preprint arXiv:2306.04848.
