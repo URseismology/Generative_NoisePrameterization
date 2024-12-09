@@ -6,6 +6,7 @@ Folder Structure
 
 Root Folder: PRJ_AUTO_NOISEPARAM
 Subfolders:
+
     1. code
         a.analysis: contains general data analysis, data processing and results analysis jupyter notebooks.
         b.lib: contains the utility codes, the diffusion model related classes and methods.
