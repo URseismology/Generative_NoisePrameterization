@@ -49,7 +49,7 @@ Result Analysis Details
 Reference
 --------------------------------------------------------------------------------------
 
-@inproceedings{
+@article{
 permenter2024interpreting,
 title={Interpreting and Improving Diffusion Models from an Optimization Perspective},
 author={Frank Permenter and Chenyang Yuan},
