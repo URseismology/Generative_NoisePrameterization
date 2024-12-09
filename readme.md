@@ -50,3 +50,6 @@ Reference
 --------------------------------------------------------------------------------------
 
 Permenter, F., & Yuan, C. (2023). Interpreting and Improving Diffusion Models from an Optimization Perspective. arXiv preprint arXiv:2306.04848.
+
+Kolb, J. M., & Lekić, V. (2014). Receiver function deconvolution using transdimensional hierarchical Bayesian inference. Geophysical Journal International, 197(3), 1719-1735.
+
