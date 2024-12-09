@@ -49,9 +49,12 @@ Result Analysis Details
 Reference
 --------------------------------------------------------------------------------------
 
-@article{permenter2023interpreting,
-  title={Interpreting and Improving Diffusion Models from an Optimization Perspective},
-  author={Permenter, Frank and Yuan, Chenyang},
-  journal={arXiv preprint arXiv:2306.04848},
-  year={2023}
+@misc{permenter2024interpretingimprovingdiffusionmodels,
+      title={Interpreting and Improving Diffusion Models from an Optimization Perspective}, 
+      author={Frank Permenter and Chenyang Yuan},
+      year={2024},
+      eprint={2306.04848},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2306.04848}, 
 }
